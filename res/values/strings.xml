@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Holadesk</string>
+    
+    <!-- Activitie Names -->
+    <string name="title_activity_main">Holadesk</string>
+    
+    <!-- Buttons -->
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    
+    <!-- Errors -->
+    <string name="desknotloading">You need an Internet connection to load holadesk for the first time.</string>
+    <string name="sitenotloading">You need an Internet connection to load that site.</string>
+
+</resources>
